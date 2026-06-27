@@ -1,0 +1,36 @@
+{
+  "total": 210,
+  "avg_similarity": 83.42,
+  "by_language": {
+    "fr": 87.61,
+    "hi": 84.18,
+    "ja": 78.46
+  },
+  "by_category": {
+    "emotional": 82.99,
+    "sarcasm": 81.02,
+    "technical": 91.35
+  },
+  "pivot": {
+    "fr": {
+      "emotional": 87.81,
+      "sarcasm": 85.27,
+      "technical": 94.53
+    },
+    "hi": {
+      "emotional": 85.78,
+      "sarcasm": 81.15,
+      "technical": 91.41
+    },
+    "ja": {
+      "emotional": 75.37,
+      "sarcasm": 76.64,
+      "technical": 88.12
+    }
+  },
+  "meaning_counts": {
+    "preserved": 110,
+    "partial_loss": 87,
+    "significant_loss": 13
+  }
+}

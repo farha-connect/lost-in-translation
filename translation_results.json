@@ -1,0 +1,1682 @@
+[
+  {
+    "original": "gore mauled by aquatic mammal",
+    "intermediate": "水生哺乳類に襲われたゴア",
+    "back_translated": "Goa attacked by aquatic mammals",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "gore mauled by aquatic mammal",
+    "intermediate": "जलीय स्तनपायी द्वारा क्षत-विक्षत",
+    "back_translated": "mauled by aquatic mammals",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "gore mauled by aquatic mammal",
+    "intermediate": "sang mutilé par un mammifère aquatique",
+    "back_translated": "blood mutilated by an aquatic mammal",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "apple becomes first american company that should have paid trillion dollars in taxes",
+    "intermediate": "アップルは、1兆ドルもの税金を支払わなければならなかった最初のアメリカ企業となる",
+    "back_translated": "Apple becomes the first American company to have to pay $1 trillion in taxes",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "apple becomes first american company that should have paid trillion dollars in taxes",
+    "intermediate": "Apple पहली अमेरिकी कंपनी बन गई है जिसने ट्रिलियन डॉलर टैक्स चुकाया होगा",
+    "back_translated": "Apple becomes the first American company to pay trillion dollar tax",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "apple becomes first american company that should have paid trillion dollars in taxes",
+    "intermediate": "Apple devient la première entreprise américaine qui aurait dû payer des milliards de dollars d'impôts",
+    "back_translated": "Apple becomes the first American company to have paid billions of dollars in taxes",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "pep-rally skit rumored to involve cross-dressing principal",
+    "intermediate": "女装校長が関与していると噂される激励会寸劇",
+    "back_translated": "A pep rally skit rumored to involve a cross-dressing principal",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "pep-rally skit rumored to involve cross-dressing principal",
+    "intermediate": "जोशपूर्ण रैली स्किट में क्रॉस-ड्रेसिंग प्रिंसिपल के शामिल होने की अफवाह थी",
+    "back_translated": "Passionate rally skit rumored to involve cross-dressing principal",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "pep-rally skit rumored to involve cross-dressing principal",
+    "intermediate": "Selon les rumeurs, un sketch d'encouragement impliquerait un directeur travesti",
+    "back_translated": "Cheer skit rumored to involve cross-dressing principal",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "outfit just screams police officer",
+    "intermediate": "服装は警察官を叫ぶだけです",
+    "back_translated": "The outfit just screams police officer.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "outfit just screams police officer",
+    "intermediate": "la tenue fait juste crier au policier",
+    "back_translated": "the outfit just screams police",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "parasites just getting the hang of how host does things",
+    "intermediate": "寄生虫は宿主のやり方をちょうど理解しているところだ",
+    "back_translated": "Parasites are just figuring out the ways of their hosts.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "parasites just getting the hang of how host does things",
+    "intermediate": "परजीवियों को बस यह समझ में आ जाता है कि मेज़बान काम कैसे करता है",
+    "back_translated": "Parasites simply understand how the host works",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "parasites just getting the hang of how host does things",
+    "intermediate": "les parasites comprennent juste comment l'hôte fait les choses",
+    "back_translated": "parasites just understand how the host does things",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "vilsack stays up all night with sick corn plant",
+    "intermediate": "ヴィルサックは病気のトウモロコシの植物と一緒に一晩中起きている",
+    "back_translated": "Vilsack stays up all night with sick corn plants",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "vilsack stays up all night with sick corn plant",
+    "intermediate": "विल्सैक पूरी रात बीमार मक्के के पौधे के साथ जागता रहता है",
+    "back_translated": "Vilsack stays up all night tending sick corn plants",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "vilsack stays up all night with sick corn plant",
+    "intermediate": "Vilsack reste éveillé toute la nuit avec un plant de maïs malade",
+    "back_translated": "Vilsack stays up all night with a sick corn plant",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "justice department calls on ferguson to align level of institutional racism with rest of country",
+    "intermediate": "司法省はファーガソン氏に対し、制度上の人種差別のレベルを国内の他の地域と一致させるよう要請",
+    "back_translated": "Justice Department urges Ferguson to bring levels of systemic racism in line with other parts of the country",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "justice department calls on ferguson to align level of institutional racism with rest of country",
+    "intermediate": "न्याय विभाग ने फर्ग्यूसन से देश के बाकी हिस्सों के साथ संस्थागत नस्लवाद के स्तर को संरेखित करने का आह्वान किया",
+    "back_translated": "Justice Department calls on Ferguson to align levels of institutional racism with the rest of the country",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "justice department calls on ferguson to align level of institutional racism with rest of country",
+    "intermediate": "Le ministère de la Justice demande à Ferguson d'aligner le niveau de racisme institutionnel sur celui du reste du pays",
+    "back_translated": "Justice Department calls on Ferguson to bring level of institutional racism in line with rest of country",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "man has mosquito on the run",
+    "intermediate": "男は蚊を飼っています",
+    "back_translated": "the man keeps a mosquito",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "man has mosquito on the run",
+    "intermediate": "आदमी के पास भागता हुआ मच्छर है",
+    "back_translated": "a mosquito running away from a man",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "man has mosquito on the run",
+    "intermediate": "l'homme a un moustique en fuite",
+    "back_translated": "man has a mosquito on the run",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "lone house with no halloween decorations by far spookiest in neighborhood",
+    "intermediate": "ハロウィーンの装飾のない一軒家は近所で最も不気味だ",
+    "back_translated": "A house without Halloween decorations is the creepiest in the neighborhood.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "lone house with no halloween decorations by far spookiest in neighborhood",
+    "intermediate": "पड़ोस में अब तक का सबसे डरावना घर, जिसमें कोई हेलोवीन सजावट नहीं है",
+    "back_translated": "The scariest house ever in the neighborhood with no Halloween decorations",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "lone house with no halloween decorations by far spookiest in neighborhood",
+    "intermediate": "maison isolée sans décorations d'Halloween et de loin la plus effrayante du quartier",
+    "back_translated": "isolated house without Halloween decorations and by far the scariest in the neighborhood",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "area teen receives $2 from grandma",
+    "intermediate": "地域の十代がおばあちゃんから2ドルを受け取る",
+    "back_translated": "Local teen receives $2 from grandma",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "area teen receives $2 from grandma",
+    "intermediate": "क्षेत्र के किशोर को दादी से $2 मिलते हैं",
+    "back_translated": "Area teen gets $2 from grandmother",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "area teen receives $2 from grandma",
+    "intermediate": "un adolescent de la région reçoit 2 $ de grand-mère",
+    "back_translated": "local teenager receives $2 from grandma",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "salad suppliers pledge to continue including just enough in bag that some will go bad if you're single",
+    "intermediate": "サラダの供給業者は、独身の場合傷む程度の量を袋に詰め続けることを約束する",
+    "back_translated": "Salad supplier promises to keep bagging enough food to spoil if single person",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "salad suppliers pledge to continue including just enough in bag that some will go bad if you're single",
+    "intermediate": "सलाद आपूर्तिकर्ता प्रतिज्ञा करते हैं कि वे बैग में इतना ही शामिल करते रहेंगे कि यदि आप अकेले हैं तो कुछ खराब हो जाएगा",
+    "back_translated": "Salad suppliers promise they'll include just enough in the bag just in case something goes bad if you're alone.",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "salad suppliers pledge to continue including just enough in bag that some will go bad if you're single",
+    "intermediate": "les fournisseurs de salades s'engagent à continuer d'en inclure juste assez dans leurs sacs pour que certaines se gâtent si vous êtes célibataire",
+    "back_translated": "salad purveyors pledge to continue including just enough in their bags so some will go bad if you're single",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "trump outlines bold vision for nation's next mass protests",
+    "intermediate": "トランプ氏、国内の次の大規模抗議活動に向けた大胆なビジョンを概説",
+    "back_translated": "Trump outlines bold vision for the country's next major protests",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "trump outlines bold vision for nation's next mass protests",
+    "intermediate": "ट्रम्प ने देश के अगले जन विरोध प्रदर्शन के लिए साहसिक दृष्टिकोण की रूपरेखा तैयार की",
+    "back_translated": "Trump outlines bold approach to the country's next mass protests",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "trump outlines bold vision for nation's next mass protests",
+    "intermediate": "Trump présente une vision audacieuse pour les prochaines manifestations de masse dans le pays",
+    "back_translated": "Trump outlines bold vision for upcoming mass protests across the country",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "thousands of students forced to attend iowa state after university sets acceptance rate to 140%",
+    "intermediate": "大学が合格率を140%に設定したため、数千人の学生がアイオワ州への進学を余儀なくされる",
+    "back_translated": "Thousands of students will be forced to attend Iowa State as university sets acceptance rate at 140%",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "thousands of students forced to attend iowa state after university sets acceptance rate to 140%",
+    "intermediate": "विश्वविद्यालय द्वारा स्वीकृति दर 140% निर्धारित करने के बाद हजारों छात्रों को आयोवा राज्य में भाग लेने के लिए मजबूर होना पड़ा",
+    "back_translated": "Thousands of students forced to attend Iowa State after university set acceptance rate at 140%",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "thousands of students forced to attend iowa state after university sets acceptance rate to 140%",
+    "intermediate": "des milliers d'étudiants sont contraints de fréquenter l'État de l'Iowa après que l'université a fixé le taux d'acceptation à 140 %",
+    "back_translated": "thousands of students forced to attend Iowa State after university sets acceptance rate at 140%",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "pence tells emotional story of longtime friend who was aborted after second trimester",
+    "intermediate": "ペンス氏、妊娠中期後に中絶された長年の友人の感動的な話を語る",
+    "back_translated": "Pence shares moving story of longtime friend who had abortion after second trimester",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "pence tells emotional story of longtime friend who was aborted after second trimester",
+    "intermediate": "पेंस अपने पुराने दोस्त की भावनात्मक कहानी बताते हैं जिसका दूसरी तिमाही के बाद गर्भपात हो गया था",
+    "back_translated": "Pence tells emotional story of his old friend who had an abortion after the second trimester",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "pence tells emotional story of longtime friend who was aborted after second trimester",
+    "intermediate": "pence raconte l'histoire émouvante d'une amie de longue date qui a avorté après le deuxième trimestre",
+    "back_translated": "pence shares moving story of longtime friend who had an abortion after the second trimester",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "disembodied voice in elevator wants to know way to san jose",
+    "intermediate": "エレベーター内での肉体のない声がサンノゼまでの道を知りたがっている",
+    "back_translated": "A disembodied voice in the elevator wants directions to San Jose.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "disembodied voice in elevator wants to know way to san jose",
+    "intermediate": "लिफ्ट में अशरीरी आवाज सैन जोस का रास्ता जानना चाहती है",
+    "back_translated": "Disembodied voice in elevator wants to know the way to San Jose",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "disembodied voice in elevator wants to know way to san jose",
+    "intermediate": "une voix désincarnée dans l'ascenseur veut savoir comment se rendre à San José",
+    "back_translated": "a disembodied voice in the elevator wants to know how to get to San José",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "outfit just screams police officer",
+    "intermediate": "संगठन सिर्फ पुलिस अधिकारी चिल्लाता है",
+    "back_translated": "Organization just screams police officer",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "rookie usda agent vomits after seeing first rotten orange",
+    "intermediate": "USDAの新人職員、初めて腐ったオレンジを見て嘔吐",
+    "back_translated": "New USDA employee vomits after seeing rotten orange for the first time",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "rookie usda agent vomits after seeing first rotten orange",
+    "intermediate": "पहला सड़ा हुआ संतरा देखने के बाद नौसिखिए यूएसडीए एजेंट को उल्टी हो गई",
+    "back_translated": "Rookie USDA agent vomited after seeing first rotten orange",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "rookie usda agent vomits after seeing first rotten orange",
+    "intermediate": "Un agent recrue de l'USDa vomit après avoir vu la première orange pourrie",
+    "back_translated": "Rookie USDa Agent Vomits After Seeing First Rotten Orange",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "area man's life comes to tragic middle",
+    "intermediate": "地域の男性の人生は悲劇のどん底に陥る",
+    "back_translated": "The life of a local man falls into the depths of tragedy.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "area man's life comes to tragic middle",
+    "intermediate": "क्षेत्र के व्यक्ति का जीवन दुखद मध्य में आ जाता है",
+    "back_translated": "The area man's life comes to a tragic halt",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "area man's life comes to tragic middle",
+    "intermediate": "la vie d'un homme arrive à un milieu tragique",
+    "back_translated": "a man's life comes to a tragic middle",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "bandai recalls lady gaga",
+    "intermediate": "バンダイがレディー・ガガを思い出す",
+    "back_translated": "Bandai remembers Lady Gaga",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "bandai recalls lady gaga",
+    "intermediate": "बंदई ने लेडी गागा को याद किया",
+    "back_translated": "Bandai remembers Lady Gaga",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "bandai recalls lady gaga",
+    "intermediate": "Bandai rappelle Lady Gaga",
+    "back_translated": "Bandai recalls Lady Gaga",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "bill clinton waiting until after primaries to endorse candidate",
+    "intermediate": "ビル・クリントン氏、予備選後まで候補者支持を待つ",
+    "back_translated": "Bill Clinton waits to endorse candidate until after primaries",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "bill clinton waiting until after primaries to endorse candidate",
+    "intermediate": "बिल क्लिंटन उम्मीदवार का समर्थन करने के लिए प्राइमरी के बाद तक प्रतीक्षा कर रहे हैं",
+    "back_translated": "Bill Clinton is waiting until after the primaries to endorse the candidate",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "bill clinton waiting until after primaries to endorse candidate",
+    "intermediate": "Bill Clinton attend la fin des primaires pour soutenir son candidat",
+    "back_translated": "Bill Clinton waits until the end of the primaries to support his candidate",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "'game of thrones' fans shocked after some little goblin or something killed off in last night's episode",
+    "intermediate": "昨夜のエピソードで小さなゴブリンか何かが殺され、「ゲーム・オブ・スローンズ」ファンはショックを受けた",
+    "back_translated": "'Game of Thrones' fans were shocked when a little goblin or something was killed in last night's episode",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "'game of thrones' fans shocked after some little goblin or something killed off in last night's episode",
+    "intermediate": "'गेम ऑफ थ्रोन्स' के प्रशंसक कल रात के एपिसोड में कुछ छोटे भूत या किसी चीज़ के मारे जाने से सदमे में हैं",
+    "back_translated": "'Game of Thrones' fans are in shock after some little ghost or something got killed in last night's episode",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "'game of thrones' fans shocked after some little goblin or something killed off in last night's episode",
+    "intermediate": "Les fans de \"Game of Thrones\" sont choqués après la mort d'un petit gobelin ou de quelque chose dans l'épisode d'hier soir",
+    "back_translated": "'Game of Thrones' fans are shocked after a little goblin or something died in last night's episode",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "playtex unveils new line of quick-dissolving tampons",
+    "intermediate": "プレイテックスが速溶性タンポンの新ラインを発表",
+    "back_translated": "Playtex launches new line of fast-dissolving tampons",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "playtex unveils new line of quick-dissolving tampons",
+    "intermediate": "प्लेटेक्स ने जल्दी घुलने वाले टैम्पोन की नई श्रृंखला का अनावरण किया",
+    "back_translated": "Playtex unveils new line of quick-dissolving tampons",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "playtex unveils new line of quick-dissolving tampons",
+    "intermediate": "Playtex dévoile une nouvelle gamme de tampons à dissolution rapide",
+    "back_translated": "Playtex unveils new range of fast-dissolving tampons",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "disney begins uploading obama's consciousness to hall of presidents robot",
+    "intermediate": "ディズニーがオバマ大統領の意識を大統領ホールのロボットにアップロードし始める",
+    "back_translated": "Disney begins uploading President Obama's consciousness to robot in Hall of Presidents",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "disney begins uploading obama's consciousness to hall of presidents robot",
+    "intermediate": "डिज़्नी ने ओबामा की चेतना को हॉल ऑफ़ प्रेसिडेंट्स रोबोट पर अपलोड करना शुरू किया",
+    "back_translated": "Disney begins uploading Obama's consciousness to the Hall of Presidents robot",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "disney begins uploading obama's consciousness to hall of presidents robot",
+    "intermediate": "Disney commence à télécharger la conscience d'Obama sur le robot de la salle des présidents",
+    "back_translated": "Disney begins uploading Obama's consciousness to Hall of Presidents robot",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "idea to see mario van peebles movie occurs to no one",
+    "intermediate": "マリオ・ヴァン・ピーブルズの映画を見ようという考えは誰も思いつかない",
+    "back_translated": "No one would think of watching a Mario Van Peebles movie.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "idea to see mario van peebles movie occurs to no one",
+    "intermediate": "मारियो वैन पीबल्स की फिल्म देखने का विचार किसी के मन में नहीं आता",
+    "back_translated": "Nobody's thinking about watching a Mario Van Peebles movie",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "idea to see mario van peebles movie occurs to no one",
+    "intermediate": "L'idée de voir le film de Mario Van Peebles ne vient à l'esprit de personne",
+    "back_translated": "The idea of ​​seeing Mario Van Peebles' film never crosses anyone's mind",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "christopher plummer probably nailing it in 'king lear' somewhere",
+    "intermediate": "クリストファー・プラマーはおそらく「リア王」のどこかでそれを釘付けにしたでしょう",
+    "back_translated": "Christopher Plummer probably nailed it somewhere in 'King Lear'",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "christopher plummer probably nailing it in 'king lear' somewhere",
+    "intermediate": "क्रिस्टोफर प्लमर शायद इसे कहीं न कहीं 'किंग लियर' में पेश कर रहे हैं",
+    "back_translated": "Christopher Plummer is probably performing it somewhere in 'King Lear'",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "christopher plummer probably nailing it in 'king lear' somewhere",
+    "intermediate": "Christopher Plummer l'a probablement cloué quelque part dans 'King Lear'",
+    "back_translated": "Christopher Plummer probably nailed it somewhere in 'King Lear'",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "new legislation would shut down u.s. education system, give each american student $3,000 to start own small business",
+    "intermediate": "新しい法律は米国を閉鎖するだろう教育システム、アメリカの学生一人一人に小規模ビジネスを立ち上げるために 3,000 ドルを与える",
+    "back_translated": "New law would shut down US education system, give each American student $3,000 to start a small business",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "new legislation would shut down u.s. education system, give each american student $3,000 to start own small business",
+    "intermediate": "नया कानून हमें बंद कर देगा शिक्षा प्रणाली, प्रत्येक अमेरिकी छात्र को अपना छोटा व्यवसाय शुरू करने के लिए $3,000 दें",
+    "back_translated": "New law will shut down our education system, give every American student $3,000 to start their own small business",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "new legislation would shut down u.s. education system, give each american student $3,000 to start own small business",
+    "intermediate": "une nouvelle législation nous fermerait. système éducatif, donnez 3 000 $ à chaque étudiant américain pour démarrer sa propre petite entreprise",
+    "back_translated": "new legislation would shut us down. education system, give $3,000 to every American student to start their own small business",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "dan fogelberg fails to soothe area lite 108 listener",
+    "intermediate": "ダン・フォーゲルバーグはエリアライト108のリスナーをなだめることができなかった",
+    "back_translated": "Dan Fogelberg couldn't appease Area Light 108 listeners",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "dan fogelberg fails to soothe area lite 108 listener",
+    "intermediate": "डैन फोगेलबर्ग क्षेत्र लाइट 108 श्रोता को शांत करने में विफल रहे",
+    "back_translated": "Dan Fogelberg fails to placate Area Light 108 listener",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "dan fogelberg fails to soothe area lite 108 listener",
+    "intermediate": "Dan Fogelberg ne parvient pas à apaiser l'auditeur de Area Lite 108",
+    "back_translated": "Dan Fogelberg fails to appease Area Lite 108 listener",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "limited-edition russet potato comes with certificate of authenticity",
+    "intermediate": "限定版ラセットポテトには証明書が付属します",
+    "back_translated": "Limited Edition Russet Potatoes come with a certificate of authenticity",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "limited-edition russet potato comes with certificate of authenticity",
+    "intermediate": "सीमित-संस्करण रसेट आलू प्रामाणिकता प्रमाणपत्र के साथ आता है",
+    "back_translated": "Limited-edition Russet potatoes come with a certificate of authenticity",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "limited-edition russet potato comes with certificate of authenticity",
+    "intermediate": "pomme de terre rousse en édition limitée livrée avec un certificat d'authenticité",
+    "back_translated": "limited edition red potato delivered with a certificate of authenticity",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "trump claims waterboarding doesn't come close to the excruciating torment he experiences at every moment",
+    "intermediate": "トランプ大統領、水責めは自分が常に経験する耐え難い苦痛には及ばないと主張",
+    "back_translated": "President Trump says waterboarding doesn't come close to the excruciating pain he regularly experiences",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "trump claims waterboarding doesn't come close to the excruciating torment he experiences at every moment",
+    "intermediate": "ट्रम्प का दावा है कि वॉटरबोर्डिंग उस कष्टदायी पीड़ा के करीब नहीं है जो वह हर पल अनुभव करते हैं",
+    "back_translated": "Trump claims waterboarding doesn't come close to the excruciating pain he experiences every moment",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "trump claims waterboarding doesn't come close to the excruciating torment he experiences at every moment",
+    "intermediate": "Trump affirme que la simulation de noyade n'est pas comparable aux tourments atroces qu'il subit à chaque instant",
+    "back_translated": "Trump says simulated drowning is no comparison to the excruciating torment he endures every moment",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "closeted soldiers getting in last clandestine rendezvous before 'don't ask, don't tell' repealed",
+    "intermediate": "「尋ねるな、言わない」が廃止される前に、最後の密会に参加する密室の兵士たち",
+    "back_translated": "Soldiers behind closed doors participate in one last secret meeting before \"Don't Ask, Don't Tell\" is repealed",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "closeted soldiers getting in last clandestine rendezvous before 'don't ask, don't tell' repealed",
+    "intermediate": "'मत पूछो, मत बताओ' निरस्त होने से पहले बंद सैनिकों की अंतिम गुप्त मुलाकात में शामिल होना",
+    "back_translated": "Attending the last secret meeting of captive soldiers before 'Don't Ask, Don't Tell' was repealed.",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "closeted soldiers getting in last clandestine rendezvous before 'don't ask, don't tell' repealed",
+    "intermediate": "les soldats enfermés se rendent au dernier rendez-vous clandestin avant l'abrogation de la formule « ne demandez pas, ne dites pas »",
+    "back_translated": "Locked-up soldiers go to last clandestine meeting before 'don't ask, don't tell' is repealed",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "glitch in country allows citizens to temporarily walk through tables",
+    "intermediate": "国の不具合により、国民がテーブルの間を一時的に通り抜けられるようになる",
+    "back_translated": "Country glitch allows citizens to temporarily pass between tables",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "glitch in country allows citizens to temporarily walk through tables",
+    "intermediate": "देश में गड़बड़ी नागरिकों को अस्थायी रूप से टेबल के माध्यम से चलने की अनुमति देती है",
+    "back_translated": "Disturbances in the country allow citizens to temporarily walk through tables",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "glitch in country allows citizens to temporarily walk through tables",
+    "intermediate": "un problème dans le pays permet aux citoyens de parcourir temporairement les tables",
+    "back_translated": "a glitch in the country allows citizens to temporarily browse tables",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "gus van sant prepares shot-for-shot teen wolf remake",
+    "intermediate": "ガス・ヴァン・サント、『ティーン・ウルフ』のリメイク版を準備中",
+    "back_translated": "Gus Van Sant is preparing a remake of 'Teen Wolf'",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "gus van sant prepares shot-for-shot teen wolf remake",
+    "intermediate": "गस वैन सैंट शॉट-फॉर-शॉट टीन वुल्फ रीमेक तैयार कर रहे हैं",
+    "back_translated": "Gus Van Sant is preparing a shot-for-shot Teen Wolf remake",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "gus van sant prepares shot-for-shot teen wolf remake",
+    "intermediate": "Gus Van Sant prépare un remake plan pour plan de Teen Wolf",
+    "back_translated": "Gus Van Sant is preparing a shot-for-shot remake of Teen Wolf",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "students excited to see slate of notable speakers who will be disinvited to campus this year",
+    "intermediate": "学生たちは、今年キャンパスに招待されない著名な講演者の予定を見て興奮している",
+    "back_translated": "Students are excited to see the schedule of prominent speakers who will not be invited to campus this year",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "students excited to see slate of notable speakers who will be disinvited to campus this year",
+    "intermediate": "छात्र उन उल्लेखनीय वक्ताओं की सूची देखने के लिए उत्साहित हैं जिन्हें इस वर्ष परिसर में आमंत्रित नहीं किया जाएगा",
+    "back_translated": "Students are excited to see the list of notable speakers who will not be invited to campus this year",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "students excited to see slate of notable speakers who will be disinvited to campus this year",
+    "intermediate": "les étudiants sont ravis de voir une liste d'orateurs notables qui ne seront pas invités sur le campus cette année",
+    "back_translated": "students are excited to see a list of notable speakers who will not be invited to campus this year",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "shelter dog eating own shit not exactly doing itself any favors",
+    "intermediate": "保護犬が自分のうんこを食べるのは、自分自身に何の恩恵も与えていない",
+    "back_translated": "When a rescue dog eats his own poop, he's not doing himself any favors.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "shelter dog eating own shit not exactly doing itself any favors",
+    "intermediate": "आश्रय कुत्ता अपनी ही गंदगी खा रहा है और वास्तव में खुद पर कोई उपकार नहीं कर रहा है",
+    "back_translated": "Shelter dog eating his own shit and really not doing himself any favors",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "shelter dog eating own shit not exactly doing itself any favors",
+    "intermediate": "un chien de refuge mange sa propre merde et ne se rend pas vraiment service",
+    "back_translated": "shelter dog eats his own poop and doesn't really do himself any favors",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "sarah huckabee sanders strongly rebukes implication she doesn't lock own children in cages",
+    "intermediate": "サラ・ハッカビー・サンダース、自分の子供たちを檻に閉じ込めていないことを示唆すると強く非難",
+    "back_translated": "Sarah Huckabee Sanders slammed for suggesting she doesn't keep her children in cages",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "sarah huckabee sanders strongly rebukes implication she doesn't lock own children in cages",
+    "intermediate": "सारा हकाबी सैंडर्स ने कड़ी फटकार लगाते हुए कहा कि वह अपने बच्चों को पिंजरे में बंद नहीं करतीं",
+    "back_translated": "Sarah Huckabee Sanders lashes out, says she doesn't keep her kids in cages",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "sarah huckabee sanders strongly rebukes implication she doesn't lock own children in cages",
+    "intermediate": "Sarah Huckabee Sanders réprimande fermement l'implication selon laquelle elle n'enferme pas ses propres enfants dans des cages",
+    "back_translated": "Sarah Huckabee Sanders strongly rebukes implication she doesn't lock her own children in cages",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "report: purchasing items from onion store most important way to either stop or help donald trump",
+    "intermediate": "レポート: ドナルド・トランプを止めるか助けるための最も重要な方法はオニオン・ストアからの商品購入です",
+    "back_translated": "Report: The most important way to stop or help Donald Trump is to buy from The Onion Store",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "report: purchasing items from onion store most important way to either stop or help donald trump",
+    "intermediate": "रिपोर्ट: डोनाल्ड ट्रंप को रोकने या मदद करने का सबसे महत्वपूर्ण तरीका प्याज की दुकान से सामान खरीदना",
+    "back_translated": "Report: The most important way to stop or help Donald Trump is to buy goods from Onion Store",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "report: purchasing items from onion store most important way to either stop or help donald trump",
+    "intermediate": "rapport : acheter des articles dans un magasin d'oignons, le moyen le plus important d'arrêter ou d'aider Donald Trump",
+    "back_translated": "Report: Buying Items From An Onion Store The Most Important Way To Stop Or Help Donald Trump",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "unattractive man not fooling anyone by dressing well",
+    "intermediate": "魅力のない男は着飾っても誰もだまさない",
+    "back_translated": "An unattractive man won't fool anyone even if he dresses up.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "unattractive man not fooling anyone by dressing well",
+    "intermediate": "अनाकर्षक आदमी अच्छे कपड़े पहनकर किसी को बेवकूफ नहीं बनाता",
+    "back_translated": "An unattractive man doesn't fool anyone by wearing nice clothes.",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "unattractive man not fooling anyone by dressing well",
+    "intermediate": "homme peu attrayant qui ne trompe personne en s'habillant bien",
+    "back_translated": "unattractive man who fools no one by dressing well",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "republicans' 'diversity through imported africans' plan criticized",
+    "intermediate": "共和党の「輸入アフリカ人による多様性」計画が批判される",
+    "back_translated": "Republican Party's 'imported African diversity' plan criticized",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "republicans' 'diversity through imported africans' plan criticized",
+    "intermediate": "रिपब्लिकन की 'आयातित अफ्रीकियों के माध्यम से विविधता' योजना की आलोचना की गई",
+    "back_translated": "Republicans' 'diversification through imported Africans' plan criticized",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "republicans' 'diversity through imported africans' plan criticized",
+    "intermediate": "Le plan des Républicains sur la « diversité grâce aux Africains importés » critiqué",
+    "back_translated": "Republican plan on “diversity thanks to imported Africans” criticized",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "trump called up for vietnam service after last of draft deferments expires",
+    "intermediate": "トランプ氏、最後の徴兵猶予期限切れ後、ベトナム勤務に招集",
+    "back_translated": "Trump called up to serve in Vietnam after last draft deferment expires",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "trump called up for vietnam service after last of draft deferments expires",
+    "intermediate": "अंतिम मसौदा स्थगन समाप्त होने के बाद ट्रम्प ने वियतनाम सेवा के लिए बुलाया",
+    "back_translated": "Trump called for Vietnam service after final draft moratorium expires",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "trump called up for vietnam service after last of draft deferments expires",
+    "intermediate": "Trump appelé au service du Vietnam après l'expiration du dernier ajournement du projet",
+    "back_translated": "Trump called to Vietnam duty after final draft deferment expires",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "bannon's cyst finally ruptures",
+    "intermediate": "バノン嚢胞がついに破裂",
+    "back_translated": "Bannon's cyst finally ruptures",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "bannon's cyst finally ruptures",
+    "intermediate": "बैनन की पुटी अंततः फट गई",
+    "back_translated": "Bannon's cyst finally bursts",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "bannon's cyst finally ruptures",
+    "intermediate": "le kyste de Bannon finit par se rompre",
+    "back_translated": "Bannon's cyst eventually ruptures",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "neighborhood has gotten a lot safer since mayor vanquished fire troll",
+    "intermediate": "市長がファイアトロールを退治して以来、近所はずっと安全になった",
+    "back_translated": "The neighborhood has become much safer since the mayor got rid of the fire troll.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "neighborhood has gotten a lot safer since mayor vanquished fire troll",
+    "intermediate": "मेयर द्वारा फायर ट्रॉल पर काबू पाने के बाद से पड़ोस काफी सुरक्षित हो गया है",
+    "back_translated": "The neighborhood has become much safer since the mayor took control of the fire troll",
+    "target_lang": "hi",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "neighborhood has gotten a lot safer since mayor vanquished fire troll",
+    "intermediate": "le quartier est devenu beaucoup plus sûr depuis que le maire a vaincu le troll du feu",
+    "back_translated": "the neighborhood has become much safer since the mayor defeated the fire troll",
+    "target_lang": "fr",
+    "success": true,
+    "category": "sarcasm"
+  },
+  {
+    "original": "Thank you. It doesn't sound so bad, at least on paper.",
+    "intermediate": "ありがとう。少なくとも紙の上では、それほど悪くはないようです。",
+    "back_translated": "thank you. At least on paper, it doesn't seem too bad.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "Thank you. It doesn't sound so bad, at least on paper.",
+    "intermediate": "धन्यवाद। यह उतना बुरा नहीं लगता, कम से कम कागज़ पर।",
+    "back_translated": "Thank you. It doesn't sound that bad, at least on paper.",
+    "target_lang": "hi",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "Thank you. It doesn't sound so bad, at least on paper.",
+    "intermediate": "Merci. Cela n’a pas l’air si mal, du moins sur le papier.",
+    "back_translated": "THANKS. It doesn't sound so bad, at least on paper.",
+    "target_lang": "fr",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "That sucks, I hope you find the finances to be able to go back to it someday.",
+    "intermediate": "残念ですね、いつか元に戻れる経済力が見つかるといいですね。",
+    "back_translated": "It's a shame, but I hope someday I can find the financial strength to go back to normal.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "That sucks, I hope you find the finances to be able to go back to it someday.",
+    "intermediate": "यह बेकार है, मुझे आशा है कि आप किसी दिन इस पर वापस जाने में सक्षम होने के लिए वित्त पा लेंगे।",
+    "back_translated": "It sucks, I hope you find the finances to be able to go back to it someday.",
+    "target_lang": "hi",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "That sucks, I hope you find the finances to be able to go back to it someday.",
+    "intermediate": "C'est nul, j'espère que vous trouverez les finances pour pouvoir y retourner un jour.",
+    "back_translated": "It sucks, I hope you find the finances to be able to go back one day.",
+    "target_lang": "fr",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "[NAME] saw it during the football game and was super impressed!",
+    "intermediate": "[NAME] さんはフットボールの試合中にそれを見て、とても感動しました。",
+    "back_translated": "[NAME] saw it during a football game and was very impressed.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "[NAME] saw it during the football game and was super impressed!",
+    "intermediate": "[नाम] ने फुटबॉल खेल के दौरान इसे देखा और बहुत प्रभावित हुए!",
+    "back_translated": "[Name] saw it during the football game and was very impressed!",
+    "target_lang": "hi",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "[NAME] saw it during the football game and was super impressed!",
+    "intermediate": "[NOM] l'a vu pendant le match de football et a été très impressionné !",
+    "back_translated": "[NAME] saw it during the football game and was very impressed!",
+    "target_lang": "fr",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "Not all [NAME] supporters are tankies, but all tankies are [NAME] supporters",
+    "intermediate": "すべての [NAME] サポーターがタンキーであるわけではありませんが、すべてのタンキーが [NAME] サポーターです",
+    "back_translated": "Not all [NAME] supporters are tankies, but all tankies are [NAME] supporters",
+    "target_lang": "ja",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "Not all [NAME] supporters are tankies, but all tankies are [NAME] supporters",
+    "intermediate": "सभी [नाम] समर्थक टैंकी नहीं हैं, लेकिन सभी टैंकी [नाम] समर्थक हैं",
+    "back_translated": "Not all [name] supporters are tanky, but all tanky [name] supporters are",
+    "target_lang": "hi",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "Not all [NAME] supporters are tankies, but all tankies are [NAME] supporters",
+    "intermediate": "Tous les supporters de [NOM] ne sont pas des tankistes, mais tous les tankistes sont des supporters de [NOM]",
+    "back_translated": "Not all [NAME] supporters are tankers, but all tankers are [NAME] supporters",
+    "target_lang": "fr",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "Oooh I haven't heard of that one. I'll look around.",
+    "intermediate": "ああ、それは聞いたことがない。周りを見回してみます。",
+    "back_translated": "Oh, I've never heard of that. I'll look around.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "Oooh I haven't heard of that one. I'll look around.",
+    "intermediate": "ओह, मैंने उसके बारे में नहीं सुना है। मैं चारों ओर देखूंगा.",
+    "back_translated": "Oh, I haven't heard of that. I will look around.",
+    "target_lang": "hi",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "Oooh I haven't heard of that one. I'll look around.",
+    "intermediate": "Oooh, je n'ai pas entendu parler de celui-là. Je vais regarder autour de moi.",
+    "back_translated": "Oooh, I haven't heard of that one. I'll look around me.",
+    "target_lang": "fr",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "Ok what deal would you like to see made?",
+    "intermediate": "OK、どのような取引を希望しますか?",
+    "back_translated": "OK, what kind of deal would you like?",
+    "target_lang": "ja",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "Ok what deal would you like to see made?",
+    "intermediate": "ठीक है आप कौन सा सौदा देखना चाहेंगे?",
+    "back_translated": "Okay which deal would you like to see?",
+    "target_lang": "hi",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "Ok what deal would you like to see made?",
+    "intermediate": "Ok, quel accord aimeriez-vous voir conclu ?",
+    "back_translated": "Ok, what deal would you like to see made?",
+    "target_lang": "fr",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "That was nasty... but also the most real thing I’ve seen on the show lately.. lol",
+    "intermediate": "あれはひどいものでした...でも、最近この番組で見た中で最も現実的なものでもありました...(笑)",
+    "back_translated": "That was terrible...but it was also the most realistic thing I've seen on this show in a while...lol",
+    "target_lang": "ja",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "That was nasty... but also the most real thing I’ve seen on the show lately.. lol",
+    "intermediate": "वह बुरा था... लेकिन सबसे वास्तविक चीज़ भी जो मैंने हाल ही में शो में देखी है.. हाहाहा",
+    "back_translated": "That was bad... but also the most realistic thing I've seen on the show recently.. hahaha",
+    "target_lang": "hi",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "That was nasty... but also the most real thing I’ve seen on the show lately.. lol",
+    "intermediate": "C'était méchant... mais aussi la chose la plus réelle que j'ai vue dans la série ces derniers temps... mdr",
+    "back_translated": "It was nasty... but also the realest thing I've seen on the show lately... lol",
+    "target_lang": "fr",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "There was a weirdly similar post to this on LegalAdviceUK maybe a couple of days back.",
+    "intermediate": "おそらく数日前に、これと奇妙に似た投稿が LegalAdviceUK にありました。",
+    "back_translated": "There was a post on LegalAdviceUK that was strangely similar to this, probably a few days ago.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "There was a weirdly similar post to this on LegalAdviceUK maybe a couple of days back.",
+    "intermediate": "शायद कुछ दिन पहले लीगलएडवाइसयूके पर इससे मिलती-जुलती एक अजीब पोस्ट थी।",
+    "back_translated": "There was a strange post perhaps similar to this on LegalAdviceUK a few days ago.",
+    "target_lang": "hi",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "There was a weirdly similar post to this on LegalAdviceUK maybe a couple of days back.",
+    "intermediate": "Il y a eu un article étrangement similaire à celui-ci sur LegalAdviceUK il y a peut-être quelques jours.",
+    "back_translated": "There was an article eerily similar to this on LegalAdviceUK perhaps a few days ago.",
+    "target_lang": "fr",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "YOU BLEEPING NEED ME! YOU CAN'T MAKE THIS SUB GREAT WITHOUT ME!",
+    "intermediate": "泣いているあなたには私が必要なのです！私なしではこのサブを素晴らしいものにすることはできません!",
+    "back_translated": "You need me when you cry! This sub wouldn't be great without me!",
+    "target_lang": "ja",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "YOU BLEEPING NEED ME! YOU CAN'T MAKE THIS SUB GREAT WITHOUT ME!",
+    "intermediate": "तुम्हें मेरी ज़रूरत है! मेरे बिना आप इस सब को महान नहीं बना सकते!",
+    "back_translated": "You need me! You can't make it all this great without me!",
+    "target_lang": "hi",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "YOU BLEEPING NEED ME! YOU CAN'T MAKE THIS SUB GREAT WITHOUT ME!",
+    "intermediate": "VOUS AVEZ BESOIN DE MOI ! VOUS NE POUVEZ PAS RENDRE CE SUB GRAND SANS MOI !",
+    "back_translated": "YOU NEED ME! YOU CAN'T MAKE THIS SUB BIG WITHOUT ME!",
+    "target_lang": "fr",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "haha I didnt remember that Rampage was there live commentating for that one, good stuff. ",
+    "intermediate": "はは、ランペイジがあの試合の生解説をしていたとは覚えていませんでした、それは良かったです。",
+    "back_translated": "Haha, I didn't remember Rampage doing live commentary for that match, that was good.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "haha I didnt remember that Rampage was there live commentating for that one, good stuff. ",
+    "intermediate": "हाहा मुझे याद नहीं आया कि रैम्पेज वहां लाइव कमेंट्री कर रहा था, अच्छी बात है।",
+    "back_translated": "Haha I didn't remember Rampage being there doing live commentary, good point.",
+    "target_lang": "hi",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "haha I didnt remember that Rampage was there live commentating for that one, good stuff. ",
+    "intermediate": "haha, je ne me souvenais pas que Rampage était là pour commenter en direct celui-là, c'est une bonne chose.",
+    "back_translated": "haha, I didn't remember Rampage being there to do live commentary on that one, that's a good thing.",
+    "target_lang": "fr",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "Ik was more curious with our communities opinion",
+    "intermediate": "私はコミュニティの意見にもっと興味がありました",
+    "back_translated": "I was more interested in community opinion",
+    "target_lang": "ja",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "Ik was more curious with our communities opinion",
+    "intermediate": "मैं हमारे समुदायों की राय को लेकर अधिक उत्सुक था",
+    "back_translated": "I was more curious about the opinions of our communities",
+    "target_lang": "hi",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "Ik was more curious with our communities opinion",
+    "intermediate": "Ik était plus curieux de connaître l'opinion de nos communautés",
+    "back_translated": "Ik was more curious to know the opinion of our communities",
+    "target_lang": "fr",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "I'm curious to see what his answer will be",
+    "intermediate": "彼の答えがどうなるか知りたい",
+    "back_translated": "I want to know what his answer will be.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "I'm curious to see what his answer will be",
+    "intermediate": "मैं यह देखने को उत्सुक हूं कि उसका उत्तर क्या होगा",
+    "back_translated": "I'm curious to see what his answer will be",
+    "target_lang": "hi",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "I'm curious to see what his answer will be",
+    "intermediate": "Je suis curieux de voir quelle sera sa réponse",
+    "back_translated": "I'm curious to see what his response will be.",
+    "target_lang": "fr",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "Thank you for your thoughtful, insight-filled post, which makes so many valid points.",
+    "intermediate": "多くの有効な点を指摘した、思慮深く洞察に満ちた投稿に感謝します。",
+    "back_translated": "Thank you for a thoughtful and insightful post that makes many valid points.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "Thank you for your thoughtful, insight-filled post, which makes so many valid points.",
+    "intermediate": "आपकी विचारशील, अंतर्दृष्टि से भरी पोस्ट के लिए धन्यवाद, जो इतने सारे वैध बिंदु प्रस्तुत करती है।",
+    "back_translated": "Thank you for your thoughtful, insightful post, which makes so many valid points.",
+    "target_lang": "hi",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "Thank you for your thoughtful, insight-filled post, which makes so many valid points.",
+    "intermediate": "Merci pour votre message réfléchi et rempli de perspicacité, qui fait valoir tant de points valables.",
+    "back_translated": "Thank you for your thoughtful and insightful post, which makes so many valid points.",
+    "target_lang": "fr",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "There's an Arby's/Long John Silvers near where I live. I'm glad they don't cross menu items.",
+    "intermediate": "私が住んでいる場所の近くにアービーズ/ロング・ジョン・シルバーズがあります。メニュー項目をまたがないのが嬉しいです。",
+    "back_translated": "There is an Arby's/Long John Silver's near where I live. I like that it doesn't cross menu items.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "There's an Arby's/Long John Silvers near where I live. I'm glad they don't cross menu items.",
+    "intermediate": "जहां मैं रहता हूं उसके निकट एक आर्बी/लॉन्ग जॉन सिल्वर है। मुझे खुशी है कि वे मेनू आइटम को पार नहीं करते हैं।",
+    "back_translated": "There is an Arby's/Long John Silver's near where I live. I'm glad they don't cross out menu items.",
+    "target_lang": "hi",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "There's an Arby's/Long John Silvers near where I live. I'm glad they don't cross menu items.",
+    "intermediate": "Il y a un Arby's/Long John Silvers près de chez moi. Je suis heureux qu'ils ne croisent pas les éléments de menu.",
+    "back_translated": "There is an Arby's/Long John Silvers near me. I'm glad they don't cross menu items.",
+    "target_lang": "fr",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "I wonder can they basejump to the bottom.",
+    "intermediate": "彼らは一番下までベースジャンプできるだろうか。",
+    "back_translated": "Can they BASE jump to the bottom?",
+    "target_lang": "ja",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "I wonder can they basejump to the bottom.",
+    "intermediate": "मुझे आश्चर्य है कि क्या वे नीचे तक बेसजंप कर सकते हैं।",
+    "back_translated": "I wonder if they can basejump to the bottom.",
+    "target_lang": "hi",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "I wonder can they basejump to the bottom.",
+    "intermediate": "Je me demande s'ils peuvent faire un basejump jusqu'en bas.",
+    "back_translated": "I wonder if they can basejump all the way down.",
+    "target_lang": "fr",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "I can't do it anymore today, I'm out. ",
+    "intermediate": "今日はもう無理、外出です。",
+    "back_translated": "I can't do it today, so I'm going out.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "I can't do it anymore today, I'm out. ",
+    "intermediate": "मैं आज यह और नहीं कर सकता, मैं बाहर हूं।",
+    "back_translated": "I can't do this anymore today, I'm out.",
+    "target_lang": "hi",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "I can't do it anymore today, I'm out. ",
+    "intermediate": "Je n’en peux plus aujourd’hui, je suis absent.",
+    "back_translated": "I can't take it anymore today, I'm away.",
+    "target_lang": "fr",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "This reminds me of suits. (Currently about to start season four.)",
+    "intermediate": "これを見るとスーツを思い出します。 （現在シーズン4が始まろうとしています。）",
+    "back_translated": "This reminds me of suits. (Season 4 is about to start.)",
+    "target_lang": "ja",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "This reminds me of suits. (Currently about to start season four.)",
+    "intermediate": "यह मुझे सूट की याद दिलाता है. (वर्तमान में सीज़न चार शुरू होने वाला है।)",
+    "back_translated": "It reminds me of a suit. (Season four is currently set to begin production.)",
+    "target_lang": "hi",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "This reminds me of suits. (Currently about to start season four.)",
+    "intermediate": "Cela me rappelle les costumes. (Actuellement sur le point de commencer la saison quatre.)",
+    "back_translated": "It reminds me of costumes. (Currently about to start season four.)",
+    "target_lang": "fr",
+    "success": true,
+    "category": "emotional"
+  },
+  {
+    "original": "An intranet typically uses the Internet Protocol and IP-based tools such as web browsers and file transfer applications.",
+    "intermediate": "イントラネットは通常、インターネット プロトコルと、Web ブラウザやファイル転送アプリケーションなどの IP ベースのツールを使用します。",
+    "back_translated": "Intranets typically use Internet protocols and IP-based tools such as web browsers and file transfer applications.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "An intranet typically uses the Internet Protocol and IP-based tools such as web browsers and file transfer applications.",
+    "intermediate": "एक इंट्रानेट आमतौर पर इंटरनेट प्रोटोकॉल और आईपी-आधारित टूल जैसे वेब ब्राउज़र और फ़ाइल ट्रांसफर एप्लिकेशन का उपयोग करता है।",
+    "back_translated": "An intranet typically uses Internet protocols and IP-based tools such as web browsers and file transfer applications.",
+    "target_lang": "hi",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "An intranet typically uses the Internet Protocol and IP-based tools such as web browsers and file transfer applications.",
+    "intermediate": "Un intranet utilise généralement le protocole Internet et des outils basés sur IP tels que des navigateurs Web et des applications de transfert de fichiers.",
+    "back_translated": "An intranet typically uses Internet Protocol and IP-based tools such as web browsers and file transfer applications.",
+    "target_lang": "fr",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "Intranets do not have to be connected to the Internet, but generally have a limited connection.",
+    "intermediate": "イントラネットはインターネットに接続する必要はありませんが、通常は接続が制限されています。",
+    "back_translated": "Intranets do not need to be connected to the Internet, but connectivity is usually limited.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "Intranets do not have to be connected to the Internet, but generally have a limited connection.",
+    "intermediate": "इंट्रानेट को इंटरनेट से कनेक्ट करने की आवश्यकता नहीं है, लेकिन आम तौर पर इसका कनेक्शन सीमित होता है।",
+    "back_translated": "An intranet does not need to be connected to the Internet, but generally has limited connectivity.",
+    "target_lang": "hi",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "Intranets do not have to be connected to the Internet, but generally have a limited connection.",
+    "intermediate": "Les intranets ne nécessitent pas nécessairement d’être connectés à Internet, mais disposent généralement d’une connexion limitée.",
+    "back_translated": "Intranets do not necessarily require connection to the Internet, but generally have a limited connection.",
+    "target_lang": "fr",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "In Ethernet networks, each NIC has a unique Media Access Control (MAC) address—usually stored in the controller's permanent memory.",
+    "intermediate": "イーサネット ネットワークでは、各 NIC に一意のメディア アクセス コントロール (MAC) アドレスがあり、通常はコントローラの永続メモリに保存されます。",
+    "back_translated": "In an Ethernet network, each NIC has a unique Media Access Control (MAC) address, typically stored in the controller's persistent memory.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "In Ethernet networks, each NIC has a unique Media Access Control (MAC) address—usually stored in the controller's permanent memory.",
+    "intermediate": "ईथरनेट नेटवर्क में, प्रत्येक एनआईसी का एक अद्वितीय मीडिया एक्सेस कंट्रोल (मैक) पता होता है - जो आमतौर पर नियंत्रक की स्थायी मेमोरी में संग्रहीत होता है।",
+    "back_translated": "In Ethernet networks, each NIC has a unique media access control (MAC) address—usually stored in the permanent memory of the controller.",
+    "target_lang": "hi",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "In Ethernet networks, each NIC has a unique Media Access Control (MAC) address—usually stored in the controller's permanent memory.",
+    "intermediate": "Dans les réseaux Ethernet, chaque carte réseau possède une adresse MAC (Media Access Control) unique, généralement stockée dans la mémoire permanente du contrôleur.",
+    "back_translated": "In Ethernet networks, each network card has a unique Media Access Control (MAC) address, usually stored in the controller's permanent memory.",
+    "target_lang": "fr",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "This process is often called logical database design, and the output is a logical data model expressed in the form of a schema.",
+    "intermediate": "このプロセスは論理データベース設計と呼ばれることが多く、出力はスキーマの形式で表現された論理データ モデルです。",
+    "back_translated": "This process is often referred to as logical database design, and the output is a logical data model expressed in the form of a schema.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "This process is often called logical database design, and the output is a logical data model expressed in the form of a schema.",
+    "intermediate": "इस प्रक्रिया को अक्सर तार्किक डेटाबेस डिज़ाइन कहा जाता है, और आउटपुट एक स्कीमा के रूप में व्यक्त एक तार्किक डेटा मॉडल है।",
+    "back_translated": "This process is often called logical database design, and the output is a logical data model expressed as a schema.",
+    "target_lang": "hi",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "This process is often called logical database design, and the output is a logical data model expressed in the form of a schema.",
+    "intermediate": "Ce processus est souvent appelé conception logique de base de données et le résultat est un modèle de données logique exprimé sous la forme d’un schéma.",
+    "back_translated": "This process is often called logical database design and the result is a logical data model expressed as a schema.",
+    "target_lang": "fr",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "English is more flexible than several other languages in which \"cryptology\" (done by cryptologists) is always used in the second sense above.",
+    "intermediate": "英語は、「暗号学」（暗号学者によって行われる）が常に上記の 2 番目の意味で使用される他のいくつかの言語よりも柔軟性があります。",
+    "back_translated": "English is more flexible than some other languages ​​where \"cryptology\" (as done by cryptographers) is always used in the second sense above.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "English is more flexible than several other languages in which \"cryptology\" (done by cryptologists) is always used in the second sense above.",
+    "intermediate": "अंग्रेजी कई अन्य भाषाओं की तुलना में अधिक लचीली है जिसमें \"क्रिप्टोलॉजी\" (क्रिप्टोलॉजिस्ट द्वारा किया गया) हमेशा उपरोक्त दूसरे अर्थ में उपयोग किया जाता है।",
+    "back_translated": "English is more flexible than many other languages ​​in that \"cryptology\" (done by cryptologists) is always used in the second sense above.",
+    "target_lang": "hi",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "English is more flexible than several other languages in which \"cryptology\" (done by cryptologists) is always used in the second sense above.",
+    "intermediate": "L'anglais est plus flexible que plusieurs autres langues dans lesquelles la « cryptologie » (effectuée par des cryptologues) est toujours utilisée dans le deuxième sens ci-dessus.",
+    "back_translated": "English is more flexible than several other languages ​​in which \"cryptology\" (performed by cryptologists) is always used in the second sense above.",
+    "target_lang": "fr",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "IBM also had its own DBMS in 1966, known as Information Management System (IMS).",
+    "intermediate": "IBM も 1966 年に、情報管理システム (IMS) として知られる独自の DBMS を開発しました。",
+    "back_translated": "IBM also developed its own DBMS in 1966, known as Information Management System (IMS).",
+    "target_lang": "ja",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "IBM also had its own DBMS in 1966, known as Information Management System (IMS).",
+    "intermediate": "1966 में IBM का अपना DBMS भी था, जिसे सूचना प्रबंधन प्रणाली (IMS) के नाम से जाना जाता है।",
+    "back_translated": "IBM also had its own DBMS in 1966, known as the Information Management System (IMS).",
+    "target_lang": "hi",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "IBM also had its own DBMS in 1966, known as Information Management System (IMS).",
+    "intermediate": "IBM possédait également son propre SGBD en 1966, connu sous le nom de système de gestion de l'information (IMS).",
+    "back_translated": "IBM also had its own DBMS in 1966, known as the Information Management System (IMS).",
+    "target_lang": "fr",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.",
+    "intermediate": "GDB のようなスタンドアロン デバッガも使用されますが、これらは多くの場合、視覚的な環境をあまり提供せず、通常はコマンド ラインを使用します。",
+    "back_translated": "Standalone debuggers like GDB are also used, but these often do not provide much of a visual environment and typically use the command line.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.",
+    "intermediate": "जीडीबी जैसे स्टैंडअलोन डिबगर्स का भी उपयोग किया जाता है, और ये अक्सर कमांड लाइन का उपयोग करके कम दृश्य वातावरण प्रदान करते हैं।",
+    "back_translated": "Standalone debuggers such as GDB are also used, and these often provide a less visual environment than using the command line.",
+    "target_lang": "hi",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.",
+    "intermediate": "Des débogueurs autonomes comme GDB sont également utilisés, et ceux-ci fournissent souvent un environnement moins visuel, utilisant généralement une ligne de commande.",
+    "back_translated": "Standalone debuggers like GDB are also used, and these often provide a less visual environment, usually using a command line.",
+    "target_lang": "fr",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "Algorithms are used as specifications for performing calculations and data processing.",
+    "intermediate": "アルゴリズムは、計算やデータ処理を実行するための仕様として使用されます。",
+    "back_translated": "Algorithms are used as specifications for performing calculations and data processing.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "Algorithms are used as specifications for performing calculations and data processing.",
+    "intermediate": "एल्गोरिदम का उपयोग गणना करने और डेटा प्रोसेसिंग के लिए विशिष्टताओं के रूप में किया जाता है।",
+    "back_translated": "Algorithms are used as specifications for performing calculations and processing data.",
+    "target_lang": "hi",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "Algorithms are used as specifications for performing calculations and data processing.",
+    "intermediate": "Les algorithmes sont utilisés comme spécifications pour effectuer des calculs et le traitement des données.",
+    "back_translated": "Algorithms are used as specifications to perform calculations and data processing.",
+    "target_lang": "fr",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "A document-oriented database is designed for storing, retrieving, and managing document-oriented, or semi structured, information.",
+    "intermediate": "ドキュメント指向データベースは、ドキュメント指向または半構造化された情報を保存、取得、管理するために設計されています。",
+    "back_translated": "Document-oriented databases are designed to store, retrieve, and manage document-oriented or semi-structured information.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "A document-oriented database is designed for storing, retrieving, and managing document-oriented, or semi structured, information.",
+    "intermediate": "दस्तावेज़-उन्मुख डेटाबेस को दस्तावेज़-उन्मुख, या अर्ध संरचित, जानकारी को संग्रहीत करने, पुनर्प्राप्त करने और प्रबंधित करने के लिए डिज़ाइन किया गया है।",
+    "back_translated": "Document-oriented databases are designed to store, retrieve, and manage document-oriented, or semi-structured, information.",
+    "target_lang": "hi",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "A document-oriented database is designed for storing, retrieving, and managing document-oriented, or semi structured, information.",
+    "intermediate": "Une base de données orientée document est conçue pour stocker, récupérer et gérer des informations orientées document ou semi-structurées.",
+    "back_translated": "A document-oriented database is designed to store, retrieve, and manage document-oriented or semi-structured information.",
+    "target_lang": "fr",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "In 1950, he proposed the Turing test, which measures the ability of a machine to simulate human conversation.",
+    "intermediate": "1950 年に、彼は人間の会話をシミュレートする機械の能力を測定するチューリング テストを提案しました。",
+    "back_translated": "In 1950, he proposed the Turing test to measure a machine's ability to simulate human conversation.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "In 1950, he proposed the Turing test, which measures the ability of a machine to simulate human conversation.",
+    "intermediate": "1950 में, उन्होंने ट्यूरिंग परीक्षण का प्रस्ताव रखा, जो मानव वार्तालाप का अनुकरण करने के लिए एक मशीन की क्षमता को मापता है।",
+    "back_translated": "In 1950, he proposed the Turing test, which measures a machine's ability to simulate human conversation.",
+    "target_lang": "hi",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "In 1950, he proposed the Turing test, which measures the ability of a machine to simulate human conversation.",
+    "intermediate": "En 1950, il propose le test de Turing, qui mesure la capacité d’une machine à simuler une conversation humaine.",
+    "back_translated": "In 1950, he proposed the Turing test, which measures the ability of a machine to simulate human conversation.",
+    "target_lang": "fr",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "Twisted pair cabling is used for wired Ethernet and other standards.",
+    "intermediate": "ツイストペアケーブルは、有線イーサネットおよびその他の標準に使用されます。",
+    "back_translated": "Twisted pair cable is used for wired Ethernet and other standards.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "Twisted pair cabling is used for wired Ethernet and other standards.",
+    "intermediate": "मुड़ जोड़ी केबलिंग का उपयोग वायर्ड ईथरनेट और अन्य मानकों के लिए किया जाता है।",
+    "back_translated": "Twisted pair cabling is used for wired Ethernet and other standards.",
+    "target_lang": "hi",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "Twisted pair cabling is used for wired Ethernet and other standards.",
+    "intermediate": "Le câblage à paire torsadée est utilisé pour Ethernet filaire et d'autres normes.",
+    "back_translated": "Twisted pair cabling is used for wired Ethernet and other standards.",
+    "target_lang": "fr",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "In 1977 the RSA algorithm was published in Martin Gardner's Scientific American column.",
+    "intermediate": "1977 年に、RSA アルゴリズムは Martin Gardner の Scientific American コラムに掲載されました。",
+    "back_translated": "In 1977, the RSA algorithm was published in Martin Gardner's Scientific American column.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "In 1977 the RSA algorithm was published in Martin Gardner's Scientific American column.",
+    "intermediate": "1977 में आरएसए एल्गोरिदम मार्टिन गार्डनर के साइंटिफिक अमेरिकन कॉलम में प्रकाशित हुआ था।",
+    "back_translated": "In 1977 the RSA algorithm was published in Martin Gardner's Scientific American column.",
+    "target_lang": "hi",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "In 1977 the RSA algorithm was published in Martin Gardner's Scientific American column.",
+    "intermediate": "En 1977, l'algorithme RSA a été publié dans la chronique Scientific American de Martin Gardner.",
+    "back_translated": "In 1977, the RSA algorithm was published in Martin Gardner's Scientific American column.",
+    "target_lang": "fr",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "The \"AI winter\", a period when obtaining funding for AI projects was difficult, followed.",
+    "intermediate": "AIプロジェクトへの資金調達が困難な「AIの冬」が続いた。",
+    "back_translated": "The \"AI winter\" continued, making it difficult to raise funds for AI projects.",
+    "target_lang": "ja",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "The \"AI winter\", a period when obtaining funding for AI projects was difficult, followed.",
+    "intermediate": "\"एआई विंटर\", एक ऐसा दौर आया जब एआई परियोजनाओं के लिए धन प्राप्त करना कठिन था।",
+    "back_translated": "\"AI Winter\", a period when it was difficult to obtain funding for AI projects.",
+    "target_lang": "hi",
+    "success": true,
+    "category": "technical"
+  },
+  {
+    "original": "The \"AI winter\", a period when obtaining funding for AI projects was difficult, followed.",
+    "intermediate": "S’ensuit « l’hiver de l’IA », une période où l’obtention de financements pour des projets d’IA est difficile.",
+    "back_translated": "What follows is “AI winter,” a period when obtaining funding for AI projects is difficult.",
+    "target_lang": "fr",
+    "success": true,
+    "category": "technical"
+  }
+]
