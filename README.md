@@ -1,11 +1,5 @@
 # Lost in Translation 
-## Author **Farha Ahmad**
 ### Measuring Semantic Drift in Machine Translation Across Sentence Types
-
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Model](https://img.shields.io/badge/Model-all--MiniLM--L6--v2-orange.svg)](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
-
 ---
 
 ## The Question
@@ -113,7 +107,7 @@ Total: 200 sentences × 3 languages × 2 directions = **1,200 API calls**
 **How much meaning survives per language?**
 ![Meaning Lost](chart4_meaning_lost.png)
 
-**Which sentence type survives translation worst?**
+**Which sentence type survives translation the worst?**
 ![Category Comparison](chart5_category_comparison.png)
 
 ---
@@ -196,7 +190,7 @@ This project is a pilot study (n=50 per category). Natural extensions:
 - Scale to 500+ sentences per category
 - Add Arabic and Mandarin as intermediate languages
 - Fine-tune similarity model on translation-specific data
-- Build real-time drift detection API
+- Build a real-time drift detection API
 - Apply to multilingual LLM evaluation benchmarks
 
 *This project was presented as part of independent research in NLP
