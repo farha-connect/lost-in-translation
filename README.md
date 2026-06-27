@@ -47,21 +47,21 @@ distinct sentence types and 3 languages.
 
 200 sentences across 4 categories
 
-↓
+                ↓
 
 Round-trip translation via Google Translate API
 
 English → [Japanese / Hindi / French] → English
 
-↓
+                ↓
 
-Semantic similarity measured using
+Semantic similarity is measured using
 
 sentence-transformers (all-MiniLM-L6-v2)
 
 Cosine similarity on 384-dimensional embeddings
 
-↓
+                ↓
 
 Pattern analysis across language × category matrix
 
@@ -117,21 +117,21 @@ lost-in-translation/
 
 │
 
-├── sentences.py          ← Dataset loading from HuggingFace + Wikipedia
+├── sentences.py          :Dataset loading from HuggingFace + Wikipedia
 
-├── translate.py          ← Round-trip translation with auto-resume
+├── translate.py          :Round-trip translation with auto-resume
 
-├── analyze.py            ← ML semantic similarity scoring
+├── analyze.py            :ML semantic similarity scoring
 
-├── visualize.py          ← 5 research-grade visualizations
+├── visualize.py          :5 research-grade visualizations
 
 │
 
-├── translation_results.json   ← Raw translation data
+├── translation_results.json   :Raw translation data
 
-├── analysis_results.csv       ← Scored results
+├── analysis_results.csv       :Scored results
 
-├── analysis_summary.json      ← Summary statistics
+├── analysis_summary.json      :Summary statistics
 
 │
 
