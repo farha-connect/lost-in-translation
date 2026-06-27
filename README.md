@@ -45,38 +45,13 @@ distinct sentence types and 3 languages.
 
 ## Methodology
 
-200 sentences across 4 categories
-
-                ↓
-
-Round-trip translation via Google Translate API
-
-English → [Japanese / Hindi / French] → English
-
-                ↓
-
-Semantic similarity is measured using
-
-sentence-transformers (all-MiniLM-L6-v2)
-
-Cosine similarity on 384-dimensional embeddings
-
-                ↓
-
-Pattern analysis across language × category matrix
+Each of the 200 sentences was translated from English into Japanese, Hindi, and French, then back to English via the Google Translate API. Semantic similarity between the original and returned sentence was then scored using **sentence-transformers (all-MiniLM-L6-v2)**, which converts text into 384-dimensional meaning vectors and measures the cosine similarity between them. Results were then analyzed across a language × category matrix to surface patterns in drift.
 
 ### Why sentence-transformers over string matching
 
-Traditional string similarity (like difflib.SequenceMatcher) compares
-characters. A sentence like "I'm happy" vs "I'm joyful" would score
-low despite identical meaning.
+Traditional string similarity (like `difflib.SequenceMatcher`) compares characters. A sentence like "I'm happy" vs "I'm joyful" would score low despite identical meaning.
 
-Sentence transformers convert text to meaning vectors in 384-dimensional
-space. Cosine similarity then measures the angle between meaning
-representations, not surface characters.
-
-This is the methodological core that makes this a semantic study,
-not a text comparison exercise.
+Sentence transformers measure the angle between meaning representations in vector space, not surface characters. This is the methodological core that makes this a semantic study, not a text comparison exercise.
 
 ---
 
