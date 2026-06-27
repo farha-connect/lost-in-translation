@@ -1,5 +1,3 @@
-# sentences.py
-# Loads sentences from real datasets for research credibility
 
 from datasets import load_dataset
 import wikipediaapi
@@ -15,19 +13,18 @@ def get_sarcasm_sentences(n=50):
     
     dataset = load_dataset("raquiba/Sarcasm_News_Headline")
     
-    # Filter only sarcastic headlines
-    # is_sarcastic == 1 means it IS sarcastic
+    
     sarcastic_only = [
         row['headline'] 
         for row in dataset['train'] 
         if row['is_sarcastic'] == 1
     ]
     
-    # Shuffle so we get variety each time
-    random.seed(42)  # seed=42 means same shuffle every run (reproducible)
+    
+    random.seed(42)  
     random.shuffle(sarcastic_only)
     
-    # Take first n sentences
+    
     selected = sarcastic_only[:n]
     
     print(f"✅ Loaded {len(selected)} sarcastic headlines")
@@ -47,10 +44,7 @@ def get_emotional_sentences(n=50):
         "simplified"
     )
     
-    # Emotion labels we want — clearly emotional, not neutral
-    # In GoEmotions simplified: 0-27 are emotion indices
-    # 27 = neutral — we EXCLUDE this
-    # We want sentences with strong clear emotions
+    
     emotional_labels = [
         0,   # admiration
         2,   # anger  
@@ -76,32 +70,29 @@ def get_emotional_sentences(n=50):
         23,  # surprise
     ]
     
-    # Filter sentences that:
-    # 1. Have at least one strong emotion label
-    # 2. Are between 10 and 100 characters (not too short or long)
-    # 3. Don't contain links or special characters
+    
     emotional_sentences = []
     
     for row in dataset['train']:
         text = row['text']
         labels = row['labels']
         
-        # Check if any label is a strong emotion
+        
         has_emotion = any(label in emotional_labels for label in labels)
         
-        # Check length is reasonable
+        
         good_length = 20 < len(text) < 120
         
-        # Check no URLs
+        
         no_urls = 'http' not in text and 'www' not in text
         
-        # Check no Reddit-specific formatting
+        
         no_formatting = '&gt;' not in text and '/r/' not in text
         
         if has_emotion and good_length and no_urls and no_formatting:
             emotional_sentences.append(text)
     
-    # Shuffle and select
+    
     random.seed(42)
     random.shuffle(emotional_sentences)
     selected = emotional_sentences[:n]
@@ -117,15 +108,13 @@ def get_technical_sentences(n=50):
     """
     print("Loading technical sentences from Wikipedia...")
     
-    # Initialize Wikipedia API
-    # The user agent string identifies our app to Wikipedia
+    
     wiki = wikipediaapi.Wikipedia(
         'LostInTranslation/1.0 (research.project@example.com)',
         'en'
     )
     
-    # CS topics to pull sentences from
-    # More topics = more variety
+    
     topics = [
         'Machine learning',
         'Artificial intelligence',
@@ -147,14 +136,13 @@ def get_technical_sentences(n=50):
         if not page.exists():
             continue
         
-        # Split page text into sentences
-        # Simple split by period
+        
         raw_sentences = page.text.split('.')
         
         for sentence in raw_sentences:
             sentence = sentence.strip()
             
-            # Filter for good technical sentences
+            
             good_length = 40 < len(sentence) < 150
             no_references = '[' not in sentence
             no_newlines = '\n' not in sentence
@@ -163,10 +151,10 @@ def get_technical_sentences(n=50):
             if good_length and no_references and no_newlines and has_content:
                 all_sentences.append(sentence + '.')
     
-    # Remove duplicates
+    
     all_sentences = list(set(all_sentences))
     
-    # Shuffle and select
+    
     random.seed(42)
     random.shuffle(all_sentences)
     selected = all_sentences[:n]
@@ -258,7 +246,7 @@ def build_all_sentences():
         'idiomatic': get_idiomatic_sentences(50)
     }
     
-    # Print summary
+    
     print("\n" + "="*50)
     print("DATASET SUMMARY")
     print("="*50)
@@ -270,11 +258,11 @@ def build_all_sentences():
     return sentences
 
 
-# Test when run directly
+
 if __name__ == "__main__":
     sentences = build_all_sentences()
     
-    # Show one example from each category
+    
     print("\nSAMPLE SENTENCES:")
     for category, sents in sentences.items():
         print(f"\n{category.upper()}:")

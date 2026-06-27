@@ -47,9 +47,9 @@ for category, sentence, lang in tasks:
         results.append({
             "category": category,
             "original": sentence,
-            "target_lang": lang,          # fixed: was "language"
+            "target_lang": lang,          
             "forward_translation": forward,
-            "back_translated": back        # fixed: was "back_translation"
+            "back_translated": back       
         })
 
         preview = sentence[:50] + "..." if len(sentence) > 50 else sentence

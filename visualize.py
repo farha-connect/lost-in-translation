@@ -16,7 +16,7 @@ def meaning_label(sim):
     elif sim >= 60: return "Partial Loss"
     else:           return "Significant Loss"
 
-df["meaning_status"] = df["similarity"].apply(meaning_label)
+df["meaning_status"] = df["meaning_status"] = df["similarity"].apply(meaning_label)
 
 # ── Global style ───────────────────────────────────────────────────
 plt.rcParams.update({
@@ -30,14 +30,13 @@ plt.rcParams.update({
     "figure.dpi"        : 130,
 })
 
-# ── Colour palette ─────────────────────────────────────────────────
-TEAL  = "#0d7377"
-DARK  = "#1a1a2e"
-RED   = "#c0392b"
-BLUE  = "#2c3e7a"
-GOLD  = "#B8860B"
-MUTED = "#7f8c8d"
-GREEN = "#1a7a4a"
+# ── Colour palette (two colors only: teal = good, red = loss) ──────
+PRIMARY = "#0d7377"   # teal: preserved / good
+DARK_PRIMARY = "#085f63"  # darker teal: mid language
+DANGER  = "#c0392b"   # red: loss / risk
+GOLD    = "#B8860B"   # only for average reference line
+DARK    = "#1a1a2e"
+MUTED   = "#7f8c8d"
 
 LANG_NAMES = {"fr": "French", "hi": "Hindi", "ja": "Japanese"}
 THRESHOLD  = 82
@@ -50,7 +49,7 @@ overall_avg = df["similarity"].mean()
 
 fig, ax = plt.subplots(figsize=(9, 5))
 
-colors = [RED if v < THRESHOLD else TEAL for v in lang_means.values]
+colors = [DANGER if v < THRESHOLD else PRIMARY for v in lang_means.values]
 bars = ax.barh(
     [LANG_NAMES[l] for l in lang_means.index],
     lang_means.values,
@@ -64,7 +63,7 @@ for bar, val in zip(bars, lang_means.values):
     ax.text(bar.get_width() + 0.3,
             bar.get_y() + bar.get_height() / 2,
             f"{val:.1f}%", va="center", fontsize=9,
-            color=RED if val < THRESHOLD else DARK)
+            color=DANGER if val < THRESHOLD else DARK)
 
 ax.set_xlabel("Similarity Score (%)")
 ax.set_title(
@@ -75,8 +74,8 @@ ax.set_title(
 ax.set_xlim(70, 100)
 ax.legend(
     handles=[
-        Patch(facecolor=RED,  label="Below average — meaning at risk"),
-        Patch(facecolor=TEAL, label="Above average"),
+        Patch(facecolor=DANGER,  label="Below average: meaning at risk"),
+        Patch(facecolor=PRIMARY, label="Above average"),
     ],
     loc="lower right", fontsize=9
 )
@@ -125,9 +124,9 @@ print("✅ chart2_heatmap.png saved")
 # CHART 3 — Meaning Preservation Breakdown (stacked bar)
 # ════════════════════════════════════════════════════════════════════
 status_colors = {
-    "Preserved"        : GREEN,
-    "Partial Loss"     : GOLD,
-    "Significant Loss" : RED,
+    "Preserved"        : PRIMARY,
+    "Partial Loss"     : MUTED,
+    "Significant Loss" : DANGER,
 }
 
 ct = pd.crosstab(df["target_lang"], df["meaning_status"])
@@ -189,9 +188,9 @@ bars_preserved = ax.barh(
     languages,
     preserved_vals,
     height=0.5,
-    color=GREEN,
-    label='Meaning Preserved',
-    edgecolor='white',
+    color=PRIMARY,
+    label="Meaning Preserved",
+    edgecolor="white",
     linewidth=1.5
 )
 
@@ -200,9 +199,9 @@ bars_lost = ax.barh(
     loss_vals,
     height=0.5,
     left=preserved_vals,
-    color=RED,
-    label='Meaning Lost',
-    edgecolor='white',
+    color=DANGER,
+    label="Meaning Lost",
+    edgecolor="white",
     linewidth=1.5
 )
 
@@ -210,43 +209,43 @@ for bar, val in zip(bars_preserved, preserved_vals):
     ax.text(
         bar.get_width() / 2,
         bar.get_y() + bar.get_height() / 2,
-        f'{val:.1f}% preserved',
-        va='center', ha='center',
-        fontsize=11, fontweight='bold',
-        color='white'
+        f"{val:.1f}% preserved",
+        va="center", ha="center",
+        fontsize=11, fontweight="bold",
+        color="white"
     )
 
 for bar, val, left in zip(bars_lost, loss_vals, preserved_vals):
     ax.text(
         left + val / 2,
         bar.get_y() + bar.get_height() / 2,
-        f'{val:.1f}% lost',
-        va='center', ha='center',
-        fontsize=11, fontweight='bold',
-        color='white'
+        f"{val:.1f}% lost",
+        va="center", ha="center",
+        fontsize=11, fontweight="bold",
+        color="white"
     )
 
-ax.axvline(85, linestyle='--', color=GOLD,
-           linewidth=1.5, label='85% quality benchmark')
+ax.axvline(85, linestyle="--", color=GOLD,
+           linewidth=1.5, label="85% quality benchmark")
 
 ax.set_xlim(0, 100)
-ax.set_xlabel('Percentage (%)', fontsize=11)
+ax.set_xlabel("Percentage (%)", fontsize=11)
 ax.set_title(
-    'How Much Meaning Survives Translation?\n'
-    'Share of meaning preserved vs lost per language',
-    fontsize=13, fontweight='bold', pad=15
+    "How Much Meaning Survives Translation?\n"
+    "Share of meaning preserved vs lost per language",
+    fontsize=13, fontweight="bold", pad=15
 )
 
 ax.legend(
-    loc='upper center',
+    loc="upper center",
     bbox_to_anchor=(0.5, -0.15),
     ncol=3,
     fontsize=9,
     frameon=True
 )
 
-ax.spines['top'].set_visible(False)
-ax.spines['right'].set_visible(False)
+ax.spines["top"].set_visible(False)
+ax.spines["right"].set_visible(False)
 
 plt.tight_layout()
 plt.subplots_adjust(bottom=0.18)
@@ -263,9 +262,9 @@ x     = np.arange(len(cats))
 width = 0.25
 
 lang_colors = {
-    "fr": TEAL,
-    "hi": BLUE,
-    "ja": RED,
+    "fr": PRIMARY,        # teal: best performing
+    "hi": DARK_PRIMARY,   # darker teal: mid
+    "ja": DANGER,         # red: highest drift
 }
 
 fig, ax = plt.subplots(figsize=(10, 6))
